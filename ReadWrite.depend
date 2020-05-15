@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1589478692 source:c:\users\david\documents\cprojects\readwrite\src\rw.cpp
+	"rw.h"
+	<Eigen/Dense>
+	<string>
+	<fstream>
+	<vector>
+	<iostream>
+
+1589480819 c:\users\david\documents\cprojects\readwrite\include\rw.h
+	<Eigen/Dense>
+	<string>
+	<fstream>
+	<vector>
+	<iostream>
+
+1589481731 source:c:\users\david\documents\cprojects\readwrite\src\tests.cpp
+	<iostream>
+	"rw.h"
+	<Eigen/Dense>
+	<fstream>
+	<string>
+	<iostream>
+
