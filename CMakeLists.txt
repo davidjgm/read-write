@@ -1,6 +1,12 @@
 cmake_minimum_required(VERSION 3.16)
-project(untitled2)
+project(read_write)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled2 src/tests.cpp)
+include_directories(include
+        /usr/local/include/eigen3)
+
+add_executable(read_write
+    include/rw.h
+    src/rw.cpp
+    src/tests.cpp)
