@@ -27,7 +27,7 @@ int main(){
     rwObj.set_rPath(".");
     y = rwObj.load_file<MatrixXd>("x.csv");
 
-    cout<<"Testing if the read matrix is the same as the written file"<<endl;
+    cout<<"Testing if thee read matrix is the same as the written file"<<endl;
     double tol(1e-3);
 
     if(((x-y).array().abs()<tol).all()){
