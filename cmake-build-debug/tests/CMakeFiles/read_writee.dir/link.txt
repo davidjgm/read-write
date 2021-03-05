@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/read_writee.dir/__/src/rw.cpp.o CMakeFiles/read_writee.dir/tests.cpp.o  -o tests/read_writee 

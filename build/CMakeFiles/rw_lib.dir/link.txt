@@ -1,0 +1,2 @@
+/usr/bin/ar qc librw_lib.a  CMakeFiles/rw_lib.dir/rw.cpp.o
+/usr/bin/ranlib librw_lib.a

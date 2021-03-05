@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tests-test.dir/tests/tests.cpp.o CMakeFiles/tests-test.dir/src/rw.cpp.o  -o tests-test 

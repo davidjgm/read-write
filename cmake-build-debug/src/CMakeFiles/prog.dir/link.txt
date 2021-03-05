@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/prog.dir/main.cpp.o  -o ../../src/prog  librw_lib.a 

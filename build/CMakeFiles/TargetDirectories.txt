@@ -1,0 +1,3 @@
+/home/david/Documents/github/read-write/build/CMakeFiles/rebuild_cache.dir
+/home/david/Documents/github/read-write/build/CMakeFiles/edit_cache.dir
+/home/david/Documents/github/read-write/build/CMakeFiles/rw_lib.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/read_write.dir/src/rw.cpp.o  -o read_write 

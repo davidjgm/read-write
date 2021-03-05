@@ -1,0 +1,8 @@
+/home/david/Documents/github/read-write/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/src/CMakeFiles/rw_lib.dir
+/home/david/Documents/github/read-write/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/david/Documents/github/read-write/cmake-build-debug/tests/CMakeFiles/tests.dir
